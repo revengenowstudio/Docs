@@ -65,5 +65,5 @@ window.$docsify = {
     }
 }
 if (typeof navigator.serviceWorker !== 'undefined') {
-    navigator.serviceWorker.register('/docs/sw.js')
+    navigator.serviceWorker.register('/docs/js/sw.js')
 }
