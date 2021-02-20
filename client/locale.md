@@ -3,7 +3,7 @@
 [XNA CNCNet Client CN](//github.com/YR-Client-Team/xna-cncnet-client-CN)
 拥有本地化功能, 请参照[它是如何工作的](#它是如何工作的)
 
-若您想参与翻译项目, 请参照[我应该怎样创建.lang文件](#我应该怎样创建.lang文件)
+若您想参与翻译项目, 请参照[我应该怎样创建.lang文件](#我应该怎样创建lang文件)
 
 ## 它是如何工作的
 
