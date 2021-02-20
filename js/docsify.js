@@ -1,7 +1,8 @@
 window.$docsify = {
+    search: 'auto', // 默认值
     loadNavbar: true,
     loadSidebar: true,
-    coverpage: true,//激活封面功能。如果为true，则会从中加载_coverpage.md。
+    coverpage: true, //激活封面功能。如果为true，则会从中加载_coverpage.md。
     auto2top: true, //当路线改变时，滚动到屏幕的顶部。
     autoHeader: true,
     mergeNavbar: true,
@@ -13,25 +14,56 @@ window.$docsify = {
     homepage: "index.md",
     themeColor: '#9900EE',
     el: '#app',
-    basePath: "/docs/",
+    // basePath: "/docs/",
+    loadFooter: true, // load from _footer.md
+    loadFooter: '_footer.md', // Or load from _footer.md
     plugins: [
         EditOnGithubPlugin.create("//github.com/YR-Client-Team/docs/"),
-        function (hook, vm) {
-            hook.beforeEach(function (html) {
-                return html
-                    + '\n\n----  \n'
-                    + '[![知识共享许可协议 CC-BY-NC-SA 4.0](/img/License.png)](//creativecommons.org/licenses/by-nc-sa/4.0/)  '
-                    + '本文采用[CC-BY-NC-SA 4.0 国际许可协议](//creativecommons.org/licenses/by-nc-sa/4.0/)进行许可。\n\n'
-                    + '`YR-Client-Team Docs` Powered by [`docsify`](//docsify.js.org)  \n\n'
-                    + '----';
-                    
+        function(hook, vm) {
+            hook.beforeEach(function(html) {
+                return html +
+                    '\n\n----  \n' +
+                    '[![知识共享许可协议 CC-BY-NC-SA 4.0](//yr-client-team.github.io/docs/img/License.png)](//creativecommons.org/licenses/by-nc-sa/4.0/)  ' +
+                    '本文采用[CC-BY-NC-SA 4.0 国际许可协议](//creativecommons.org/licenses/by-nc-sa/4.0/)进行许可。\n\n' +
+                    '`YR-Client-Team Docs` Powered by [`docsify`](//docsify.js.org)  \n\n' +
+                    '----';
+
             });
-            hook.afterEach(function (html) {
+            hook.afterEach(function(html) {
                 if (vm.route.path === '/') {
                     return html;
                 }
                 return html;
             });
         }
-    ]
+    ],
+    count: {
+        countable: true,
+        fontsize: '0.9em',
+        color: 'rgb(90,90,90)',
+        language: 'chinese'
+    },
+    tabs: {
+        persist: true, // default
+        sync: true, // default
+        theme: 'classic', // default
+        tabComments: true, // default
+        tabHeadings: true // default
+    },
+    share: {
+        reddit: true,
+        linkedin: true,
+        facebook: true,
+        twitter: true,
+        whatsapp: true,
+        telegram: true,
+    },
+    progress: {
+        position: "top",
+        color: "var(--theme-color,#42b983)",
+        height: "3px",
+    }
+}
+if (typeof navigator.serviceWorker !== 'undefined') {
+    navigator.serviceWorker.register('sw.js')
 }
