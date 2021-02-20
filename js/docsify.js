@@ -12,7 +12,7 @@ window.$docsify = {
     repo: '',
     homepage: "index.md",
     themeColor: '#9900EE',
-    el: '#loading',
+    el: '#app',
     basePath: "/docs/",
     plugins: [
         EditOnGithubPlugin.create("//github.com/YR-Client-Team/docs/"),
