@@ -14,7 +14,7 @@ window.$docsify = {
     homepage: "index.md",
     themeColor: '#9900EE',
     el: '#app',
-    // basePath: "/docs/",
+    basePath: "/docs/",
     loadFooter: true, // load from _footer.md
     loadFooter: '_footer.md', // Or load from _footer.md
     plugins: [
