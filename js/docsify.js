@@ -67,12 +67,11 @@ window.$docsify = {
 if (typeof navigator.serviceWorker !== 'undefined') {
     navigator.serviceWorker.register('/docs/js/sw.js')
 }
-window.onload(function(ev) {
-    if (!!window.ActiveXObject || "ActiveXObject" in window) {
-        document.querySelector("div#app").innerHTML +=
-            "<br>" +
-            "加载失败<br>" +
-            "YR-Client-Team Docs 不支持使用Internet Explorer<br>" +
-            "请更换浏览器 "
-    };
-})
+
+if (!!window.ActiveXObject || "ActiveXObject" in window) {
+    document.querySelector("div#app").innerHTML +=
+        "<br>" +
+        "加载失败<br>" +
+        "YR-Client-Team Docs 不支持使用Internet Explorer<br>" +
+        "请更换浏览器 "
+};
