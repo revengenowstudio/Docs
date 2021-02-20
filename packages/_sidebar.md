@@ -2,4 +2,4 @@
   - [客户端](/client/index.md)
     - [本地化](/client/locale.md)
   - [Github Packages](/packages/index.md)
-    - [nuget](packages\nuget.md)  
+    - [nuget](/packages/nuget.md)  
