@@ -22,11 +22,11 @@ public static LocaleResource Init(
 );
 ```
 
-类型|参数|作用|默认值
+|类型|参数|作用|默认值|
 |-|-|-|-|
-`string`|`localeFolderPath`|指定本地化文件目录
-`string`|`locale`|本地化文件名
-`string`|`failbackLocale`|失败时使用的本地化文件名|`"en"`
+|`string`|`localeFolderPath`|指定本地化文件目录||
+|`string`|`locale`|本地化文件名||
+|`string`|`failbackLocale`|失败时使用的本地化文件名|`"en"`|
 
 它在初始化时会读取`localeFolderPath`路径下的`$"{locale}.lang"`文件  
 这个文件是一个Json格式的文件  
