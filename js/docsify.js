@@ -72,6 +72,6 @@ if (!!window.ActiveXObject || "ActiveXObject" in window) {
     document.querySelector("div#app").innerHTML +=
         "<br>" +
         "加载失败<br>" +
-        "YR-Client-Team Docs 不支持使用Internet Explorer<br>" +
+        "Revenge Now 官方网站 不支持使用Internet Explorer<br>" +
         "请更换浏览器 "
 };
