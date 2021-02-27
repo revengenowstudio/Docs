@@ -1,3 +1,3 @@
-# YR-Client-Team Docs
+# Revenge Now 官方网站
 
-Welcome
+Welcome back, commander !
