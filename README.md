@@ -1,5 +1,7 @@
 # Revenge Now 在线文档仓库
 
+部署位置：https://revengenowstudio.github.io/Docs/
+
 ## **修改须知**
 
 - 原始模板拷贝自https://github.com/YR-Client-Team/docs
