@@ -1,6 +1,6 @@
 # Revenge Now 在线文档仓库
 
-部署位置：https://revengenowstudio.github.io/Docs/
+部署位置：https://revengenowstudio.github.io/docs/
 
 ## **修改须知**
 
