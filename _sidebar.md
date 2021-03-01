@@ -1,3 +1,3 @@
 - [首页](/)
-  - [疑难解答](/question_n_answer/index.md)
+  - [疑难解答](/QuestionNAnswer/index.md)
   - [Github Packages](/packages/index.md)
