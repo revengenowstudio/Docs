@@ -9,7 +9,7 @@ window.$docsify = {
     relativePath: true,
     maxLevel: 3,
     subMaxLevel: 3,
-    name: 'YR-Client-Team Docs',
+    name: 'Revenge Now 官方网站',
     repo: '',
     homepage: "index.md",
     themeColor: '#9900EE',
@@ -25,7 +25,7 @@ window.$docsify = {
                     '\n\n----  \n' +
                     '[![知识共享许可协议 CC-BY-NC-SA 4.0](//yr-client-team.github.io/docs/img/License.png)](//creativecommons.org/licenses/by-nc-sa/4.0/)  ' +
                     '本文采用[CC-BY-NC-SA 4.0 国际许可协议](//creativecommons.org/licenses/by-nc-sa/4.0/)进行许可。\n\n' +
-                    '`YR-Client-Team Docs` Powered by [`docsify`](//docsify.js.org)  \n\n' +
+                    '`Revenge Now 官方网站` Powered by [`docsify`](//docsify.js.org)  \n\n' +
                     '----';
 
             });
