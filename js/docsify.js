@@ -18,12 +18,12 @@ window.$docsify = {
     loadFooter: true, // load from _footer.md
     loadFooter: '_footer.md', // Or load from _footer.md
     plugins: [
-        EditOnGithubPlugin.create("//github.com/YR-Client-Team/docs/"),
+        EditOnGithubPlugin.create("//github.com/revengenowstudio/docs/"),
         function(hook, vm) {
             hook.beforeEach(function(html) {
                 return html +
                     '\n\n----  \n' +
-                    '[![知识共享许可协议 CC-BY-NC-SA 4.0](//yr-client-team.github.io/docs/img/License.png)](//creativecommons.org/licenses/by-nc-sa/4.0/)  ' +
+                    '[![知识共享许可协议 CC-BY-NC-SA 4.0](//revengenowstudio.github.io/docs/img/License.png)](//creativecommons.org/licenses/by-nc-sa/4.0/)  ' +
                     '本文采用[CC-BY-NC-SA 4.0 国际许可协议](//creativecommons.org/licenses/by-nc-sa/4.0/)进行许可。\n\n' +
                     '`Revenge Now 官方网站` Powered by [`docsify`](//docsify.js.org)  \n\n' +
                     '----';

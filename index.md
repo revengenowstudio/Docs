@@ -7,6 +7,7 @@
 
 [![](https://gitee.com/Zero_Fanker/Revenge-Now-Wiki/raw/master/LOGO_MODDB.jpg)](https://www.moddb.com/mods/revenge-now)
 
+## 本站导航
 ### [最新发布信息](./Publishment.md)
 
 ### [常见问题指南](/QuestionNAnswer/index.md)
