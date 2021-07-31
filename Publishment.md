@@ -2,6 +2,8 @@
 
 ## 宣传视频
 
+<iframe src="//player.bilibili.com/player.html?aid=79898114&bvid=BV1wJ411b7VL&cid=136739995&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 800px; height: 600px; max-width: 100%"> </iframe>
+
 ## 序言
 
 2020是个不平凡的一年，但是我们都在坚持，坚守，我们从未放弃，只为做的更好；2021，我们有能力也有信心，给大家带来更好的复仇时刻！感谢所有支持我们关注我们的人！
