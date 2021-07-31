@@ -2,7 +2,7 @@
 
 ## 宣传视频
 
-<iframe src="https://player.bilibili.com/player.html?aid=79898114&bvid=BV1wJ411b7VL&cid=136739995&page=1&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 800px; height: 600px; max-width: 100%"> </iframe>
+<iframe src="https://player.bilibili.com/player.html?aid=79898114&bvid=BV1wJ411b7VL&cid=136739995&page=1&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 1280px; height: 720px; max-width: 100%"> </iframe>
 
 
 ## 序言
