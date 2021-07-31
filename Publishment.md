@@ -2,7 +2,7 @@
 
 ## 宣传视频
 
-<iframe src="//player.bilibili.com/player.html?aid=79898114&bvid=BV1wJ411b7VL&cid=136739995&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 800px; height: 600px; max-width: 100%"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=79898114&bvid=BV1wJ411b7VL&cid=136739995&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 800px; height: 600px; max-width: 100%"> </iframe>
 
 ## 序言
 
