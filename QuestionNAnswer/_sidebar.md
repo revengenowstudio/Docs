@@ -14,7 +14,7 @@
 
 ## 3. 自动更新问题
 - [启动器无法获取更新](/QuestionNAnswer/Launcher-Unable-to-update.md)
-- [更新启动器失败](/QuestionNAnswer/更新启动器失败.md)
+- [更新启动器失败](/QuestionNAnswer/Update-fail.md)
 - [无法获取更新包](/QuestionNAnswer/无法获取更新包.md)
 - [更新包安装失败](/QuestionNAnswer/更新包安装失败.md)
 
