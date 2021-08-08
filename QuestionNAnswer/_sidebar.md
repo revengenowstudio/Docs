@@ -10,6 +10,7 @@
 - [安装过程中显示错误1006](/QuestionNAnswer/installer-problem.md#安装过程中显示错误1006)
 - [创建临时文件失败](/QuestionNAnswer/Temp-file-problem.md)
 - [运行独立安装包时弹出全是“？”内容的窗口](/QuestionNAnswer/Non-Unicode-problem.md)
+- [安装程序弹窗“源文件被破坏”](/QuestionNAnswer/File-corrupted.md)
 
 
 ## 3. 自动更新问题
