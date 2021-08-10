@@ -39,6 +39,7 @@
 - [窗口化运行时提示“本游戏需要16位色运行”](/QuestionNAnswer/16color.md)
 - [启动CnCNet客户端弹窗：“未能加载文件或程序集'Microsoft.Xna.Framework.Game,Version=4.0.0.0'”](/QuestionNAnswer/Not-found-Xna.md)
 - [游戏内显示：“-WARNING- Using slow software rendering,please update your graphics card driver'”](/QuestionNAnswer/GPU-driver.md)
+- [打开launcher弹窗：“由于找不到MSVCP140.dll，无法继续执行代码'”](/QuestionNAnswer/VC++.md)
 
 
 ## 5. 与好友联机问题 
