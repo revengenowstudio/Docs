@@ -2,7 +2,7 @@
 
 ## 缺少 Microsoft Visual C++ 运行库
 
-![a](../img/vc++.jpg)  
+![a](../img/VC-PP.jpg)  
 
 - 若遇到此情况，请下载并安装 VC++ 2017 运行库
 - 下载地址：[64位](https://aka.ms/vs/16/release/vc_redist.x64.exe)/[32位](https://aka.ms/vs/16/release/vc_redist.x86.exe
