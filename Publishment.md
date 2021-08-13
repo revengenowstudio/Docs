@@ -258,6 +258,7 @@ jingyan.baidu.com/article/49711c61478e7bfa441b7cc0.html
     -【独立安装包，不可用于YR，不可覆盖安装旧版】  <https://pan.baidu.com/s/1Zd5aUrBH6sVY450fDZ7Qsw> 提取码:wfeb 
 	
     -【更新程序，需要0.98.728及以上版本】  <https://pan.baidu.com/s/1ALYJjTQap8zNEaUUzkd2hw> 提取码:5a21 
+* 阿里云：https://www.aliyundrive.com/s/AKEWumnAiiN
 * 腾讯云：（待更新）
 * MODDB:  （待更新）
 
