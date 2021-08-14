@@ -14,7 +14,7 @@ window.$docsify = {
     homepage: "index.md",
     themeColor: '#9900EE',
     el: '#app',
-    basePath: "/docs/",
+    basePath: "./docs",
     loadFooter: true, // load from _footer.md
     loadFooter: '_footer.md', // Or load from _footer.md
     plugins: [
@@ -23,7 +23,7 @@ window.$docsify = {
             hook.beforeEach(function(html) {
                 return html +
                     '\n\n----  \n' +
-                    '[![知识共享许可协议 CC-BY-NC-SA 4.0](//revengenowstudio.github.io/docs/img/License.png)](//creativecommons.org/licenses/by-nc-sa/4.0/)  ' +
+                    '[![知识共享许可协议 CC-BY-NC-SA 4.0](./img/License.png)](//creativecommons.org/licenses/by-nc-sa/4.0/)  ' +
                     '本文采用[CC-BY-NC-SA 4.0 国际许可协议](//creativecommons.org/licenses/by-nc-sa/4.0/)进行许可。\n\n' +
                     '`Revenge Now 官方网站` Powered by [`docsify`](//docsify.js.org)  \n\n' +
                     '----';
@@ -70,7 +70,7 @@ window.$docsify = {
     fallbackLanguages: ['en']
 }
 if (typeof navigator.serviceWorker !== 'undefined') {
-    navigator.serviceWorker.register('/docs/js/sw.js')
+    navigator.serviceWorker.register('/js/sw.js')
 }
 
 if (!!window.ActiveXObject || "ActiveXObject" in window) {
