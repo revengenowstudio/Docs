@@ -10,11 +10,10 @@
 ## 本站导航
 ### [最新发布信息](./Publishment.md)
 
-### [常见问题指南](/QuestionNAnswer/index.md)
+### [常见问题指南](./QuestionNAnswer/index.md)
 
 ### [复仇时刻资料](./IntelligenceData/index.md)
 
-### [复仇时刻导航](./链接导航.md)
 
 ## 疑难解答 
 
