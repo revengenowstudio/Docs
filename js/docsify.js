@@ -18,7 +18,7 @@ window.$docsify = {
     loadFooter: true, // load from _footer.md
     loadFooter: '_footer.md', // Or load from _footer.md
     plugins: [
-        EditOnGithubPlugin.create("//github.com/revengenowstudio/docs/blob/master/"),
+        EditOnGithubPlugin.create("//github.com/revengenowstudio/docs/blob/master/docs"),
         function(hook, vm) {
             hook.beforeEach(function(html) {
                 return html +
