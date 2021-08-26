@@ -199,7 +199,7 @@
 [自爆卡车]:../../InternalWiki/单位资料-自爆卡车
 
 [盟军简况]:SideData-Allied.md
-[苏军简况]:../../RN_Internal_Issues/wiki/单位资料-苏军简介
+[苏军简况]:https://github.com/revengenowstudio/InternalWiki/blob/master/单位资料-苏军简介
 [尤里简况]:https://github.com/revengenowstudio/InternalWiki/blob/master/单位资料-尤里简介
 <!-- Allied buildings -->
 [光棱塔]:./BuildingData-PrismTower.md
