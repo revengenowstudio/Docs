@@ -1,4 +1,4 @@
-![logo](https://home.revengenow.top/img/RNLOGO.svg)
+![logo](../img/RNLOGO.png)
 # Revenge Now 官方网站
 
 Welcome back, commander !
