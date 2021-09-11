@@ -1,0 +1,28 @@
+name: Deploy webpages into remote server
+on:
+  push:
+    branches:
+      - master
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # - name: Checkout
+      #  uses: actions/checkout@master
+      # perpare git submodule
+      #- uses: srt32/git-actions@v0.0.3
+      #  with:
+      #    args: git submodule update --init --recursive
+      # Deploy
+      - name: Deploy
+        uses: appleboy/ssh-action@master # SSH connecting to remote
+        with: 
+          host: ${{ secrets.DEPLOY_HOST }}
+          username: ${{ secrets.DEPLOY_USER }}
+          key: ${{ secrets.DEPLOY_TOKEN }}
+          script: | # Execute on remote server
+            cd ${{ DEPLOY_TARGET }}
+            git fetch
+            git reset --hard FETCH_HEAD
+            git submodule update --init --recursive
+
