@@ -17,6 +17,10 @@ window.$docsify = {
     basePath: "./docs",
     loadFooter: true, // load from _footer.md
     loadFooter: '_footer.md', // Or load from _footer.md
+    notFoundPage: {
+        '/': '_404.md',
+        '/en': 'en/_404.md',
+      },
     plugins: [
         EditOnGithubPlugin.create("//github.com/revengenowstudio/docs/blob/master/docs"),
         function(hook, vm) {
@@ -67,7 +71,7 @@ window.$docsify = {
     '/en/': '/en/',
     '/': '/',
     },
-    fallbackLanguages: ['en']
+    fallbackLanguages: ['zh', 'en']
 }
 if (typeof navigator.serviceWorker !== 'undefined') {
     navigator.serviceWorker.register('/js/sw.js')
