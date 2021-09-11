@@ -1,4 +1,4 @@
-![a](../img/File-corrupted.png)  
+![a](../../img/File-corrupted.png)  
 
 - 遇到此情况，请检查windows defender或其他杀软是否禁止了安装程序释放文件。[windows defender添加白名单的方法](./Windows-defender.md)
 

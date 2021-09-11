@@ -23,7 +23,7 @@ window.$docsify = {
             hook.beforeEach(function(html) {
                 return html +
                     '\n\n----  \n' +
-                    '[![知识共享许可协议 CC-BY-NC-SA 4.0](./img/License.png)](//creativecommons.org/licenses/by-nc-sa/4.0/)  ' +
+                    '[![知识共享许可协议 CC-BY-NC-SA 4.0](//revengenow.top/img/License.png)](//creativecommons.org/licenses/by-nc-sa/4.0/)  ' +
                     '本文采用[CC-BY-NC-SA 4.0 国际许可协议](//creativecommons.org/licenses/by-nc-sa/4.0/)进行许可。\n\n' +
                     '`Revenge Now 官方网站` Powered by [`docsify`](//docsify.js.org)  \n\n' +
                     '----';

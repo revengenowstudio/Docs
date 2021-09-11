@@ -2,8 +2,8 @@
 [返回首页](/index.md)
 
 ***
-![a](../img/GPU-driver2.png)
-![a](../img/GPU-driver1.png)
+![a](../../img/GPU-driver2.png)
+![a](../../img/GPU-driver1.png)
 
 
 

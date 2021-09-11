@@ -14,12 +14,12 @@
 
 一种是**FE** ：
 
-![a](../img/FE1.png)
+![a](../../img/FE1.png)
 
 
 一种是**RE** ：
 
-![a](../img/RE.png)
+![a](../../img/RE.png)
 
 
 
@@ -29,11 +29,11 @@ FE是指游戏**发生未知的严重错误**，RE是指**游戏同步连接错�
 
 !> 保险起见，你可以在启动器命令行中添加<kbd>-forcedump</kbd>来防止crash时没有保存dump文件。如果不清楚在哪里输入命令请看[命令要输入到哪里](./Control-code.md#Control-code1)
 
-FE后会生成一个文件夹![a](../img/bengkui1.png)
+FE后会生成一个文件夹![a](../../img/bengkui1.png)
 
 包括：**一份标注在日期的文件夹**
 
-RE后会生成一个文件夹和一个sync文件![a](../img/bengkui2.png)
+RE后会生成一个文件夹和一个sync文件![a](../../img/bengkui2.png)
 
 
 !> ****注意****：FE在**单机、联机**均可能发生，而RE只能是在**联机**时发生，并且RE的debug文件需要**多个人一起提供**才能完整。！！！

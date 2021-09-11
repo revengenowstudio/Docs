@@ -12,7 +12,7 @@
 2020是个不平凡的一年，但是我们都在坚持，坚守，我们从未放弃，只为做的更好；2021，我们有能力也有信心，给大家带来更好的复仇时刻！感谢所有支持我们关注我们的人！
 ——By Zero Fanker
 
-![pic3](img/LauncherUpdate.png)
+![pic3](./img/LauncherUpdate.png)
 
 ## 招募广告
 

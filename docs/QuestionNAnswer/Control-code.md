@@ -6,7 +6,7 @@
 
 - 启动位于复仇时刻根目录的**launcher.exe**（复仇时刻启动器），在"命令行"对话框中输入命令即可，如图所示：  
 
-![a](../img/control-code.png)
+![a](../../img/control-code.png)
 
 !> 命令前面要加<kbd>-</kbd>，并且命令与命令之间用空格间隔开，例如<kbd>-cd -forcedump</kbd>
 
