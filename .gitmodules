@@ -1,0 +1,3 @@
+[submodule "docs/IntelligenceData"]
+	path = docs/IntelligenceData
+	url = git@github.com:revengenowstudio/IntelligenceData.git
